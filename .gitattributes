@@ -1,3 +1,4 @@
 src/main/resources/static/* linguist-vendored
 project-docs/* linguist-documentation
-* linguist-language=Java
+* linguist-language=Assembly
+*.CT linguist-language=XML
